@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://martingroesbacher.github.io/sitemap.xml
